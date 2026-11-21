@@ -14,6 +14,10 @@
   <img alt="Price: free" src="https://img.shields.io/badge/price-free-blue">
 </p>
 
+<p align="center">
+  <img src="docs/screenshots/01-hero.png" width="820" alt="SafeShare: share your screen, not your clutter">
+</p>
+
 ---
 
 ## Why
@@ -34,6 +38,13 @@ another when the call is over.
 - **Menu bar only** – no Dock icon, no main window, no settings to configure.
 - **Private by design** – no network access, no analytics, no data collected.
   See [PRIVACY.md](PRIVACY.md).
+
+## Screenshots
+
+| | |
+| --- | --- |
+| <img src="docs/screenshots/02-safe-share-now.png" alt="Safe Share Now: before and after"> | <img src="docs/screenshots/03-hide-desktop-icons.png" alt="Hide desktop icons"> |
+| <img src="docs/screenshots/04-minimize-all-windows.png" alt="Minimize all windows"> | <img src="docs/screenshots/05-menu.png" alt="The SafeShare menu"> |
 
 ## The menu
 
